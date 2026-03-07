@@ -1,0 +1,6 @@
+.direnv/
+.Rhistory
+.RData
+renv/
+*.html
+*.pdf
